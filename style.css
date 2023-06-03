@@ -1,0 +1,144 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://cdn.shopify.com/s/files/1/0540/4980/0377/collections/collection-hero-Gifts_1024x.jpg?v=1613046826);
+    background-position: center;
+    background-position: center;
+}
+#main h1{
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    color:rgba(224, 161, 42, 0.938);
+    text-transform: uppercase;
+    font-size: 100px;
+    text-align: end;
+    letter-spacing: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#img{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://o.remove.bg/downloads/60eeafa9-d8b7-473b-992b-011d3f60b99b/01121eab106dfcc342bff62c8473ad69-removebg-preview.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+#main .icon i{
+    position: absolute;
+    top: 2%;
+    right: 2%;
+}
+#main h2{
+    position: absolute;
+    top: 40%;
+    left: 18%;
+    color: rgba(224, 161, 42, 0.938);
+    text-transform: uppercase;
+    font-size: 100px;
+    text-align: right;
+    letter-spacing: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#main h3{
+    position: absolute;
+    top: 70%;
+    left: 5%;
+    color: white;
+    text-transform: capitalize;
+    font-size: 25px;
+    
+}
+#main i{
+    color: white;
+    position: absolute;
+    top: 50%;
+    font-size: 50px;
+    right: 2%;
+}
+#main p.b{
+    position: absolute;
+    top: 75%;
+    left: 5%;
+    color: white;
+    font-size: 15px;
+    
+}
+#main h4{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    
+}
+#main h5{
+    position: absolute;
+    top: 73%;
+    right: 15.5%;
+    color: white;
+    font-size: 25px;
+    
+}
+p.a{
+    position: absolute;
+    top: 77.5%;
+   right: 3%;
+   color: white; 
+
+    
+}
+#main .three i{
+    position: absolute;
+    top: 70%;
+    right: 10%;
+    color: red;
+}
+h6{
+    position: absolute;
+    top: 10%;
+    right: 8%;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: wheat;
+}
+#father{
+    width: 8%;
+    height: 1.5%;
+    background-color: white;
+    position: absolute;
+    bottom: 4%;
+    left: 7%;
+}
+#son{
+    height: 100%;
+    width: 70%;
+    background-color: rgb(245, 114, 67);
+
+}
+#son p{
+    color:black;
+    text-transform: uppercase;
+    font-size: 12px;
+    position: relative;
+    left: 70%;
+    font-weight: 600;
+}
